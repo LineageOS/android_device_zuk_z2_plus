@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c1beba02_b2e0caa3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32181
+      },
+      "writtenOn": "2023-05-23T04:46:10Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_device_zuk_msm8996-common/blob/ee7d6694b7797a6af6ef6a677ba9970c10357234/rootdir/etc/init.qcom.rc#L31",
+      "revId": "5b0ef5f81d0522737bb50741668880df045c0d50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
