@@ -34,6 +34,24 @@
       "parentUuid": "c1beba02_b2e0caa3",
       "revId": "5b0ef5f81d0522737bb50741668880df045c0d50",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9bb24dca_00ec20b0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18106
+      },
+      "writtenOn": "2023-05-23T10:47:49Z",
+      "side": 1,
+      "message": "I agree, the inclusion itself is wrong, although it might also make sense to move it outside of hw/ and remove the inclusion directly since in that path it\u0027s automatically included.",
+      "parentUuid": "e7b1788f_f8fe5a4d",
+      "revId": "5b0ef5f81d0522737bb50741668880df045c0d50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
