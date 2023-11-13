@@ -35,5 +35,8 @@ AUDIO_FEATURE_ENABLED_SPKR_PROTECTION := true
 # Kernel
 TARGET_KERNEL_CONFIG := z2_plus_defconfig
 
+# Recovery
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
+
 # inherit from the proprietary version
 -include vendor/zuk/z2_plus/BoardConfigVendor.mk
