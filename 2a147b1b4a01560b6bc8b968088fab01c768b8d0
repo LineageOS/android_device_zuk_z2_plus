@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ada4416e_ae679e28",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32181
+      },
+      "writtenOn": "2023-11-17T04:22:43Z",
+      "side": 1,
+      "message": "Using I270c1899e4487ed5e7657038c4ed07e407476953 looks better.",
+      "revId": "2a147b1b4a01560b6bc8b968088fab01c768b8d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
